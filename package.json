@@ -1,6 +1,6 @@
 {
   "name": "butter-component-show-detail",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A Butter Component to show Seasons and Episode Lists, as well as Episode Info",
     "scripts": {
         "build": "webpack --config node_modules/butter-component-builder/webpack.build.js --progress --profile --colors",
