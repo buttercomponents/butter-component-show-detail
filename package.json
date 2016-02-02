@@ -29,9 +29,10 @@
   },
   "homepage": "https://github.com/buttercomponents/butter-component-show-detail",
   "dependencies": {
-      "butter-component-show-info": "*"
+      "butter-component-show-info": "*",
+      "butter-component-show-header": "*"
   },
-    "devDependencies": {
-        "butter-component-builder": "*"
-    }
+  "devDependencies": {
+      "butter-component-builder": "*"
+  }
 }
